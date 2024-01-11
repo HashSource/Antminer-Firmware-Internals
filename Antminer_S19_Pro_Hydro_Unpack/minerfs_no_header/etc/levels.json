@@ -1,0 +1,87 @@
+{
+    "config":
+    [
+        {
+            "miner": "S19 Pro+ Hyd.",
+            "levels": [
+                {
+                    "frequency": 545,
+                    "voltage": 1920
+                },
+                {
+                    "frequency": 545,
+                    "voltage": 1940
+                },
+                {
+                    "frequency": 545,
+                    "voltage": 1960
+                },
+                {
+                    "frequency": 525,
+                    "voltage": 1920
+                },
+                {
+                    "frequency": 525,
+                    "voltage": 1940
+                },
+                {
+                    "frequency": 525,
+                    "voltage": 1960
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 1920
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 1940
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 1960
+                },
+                {
+                    "frequency": 485,
+                    "voltage": 1930
+                },
+                {
+                    "frequency": 485,
+                    "voltage": 1910
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 1900
+                },
+                {
+                    "frequency": 485,
+                    "voltage": 1900
+                },
+                {
+                    "frequency": 465,
+                    "voltage": 1910
+                },
+                {
+                    "frequency": 485,
+                    "voltage": 1960
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 1980
+                }
+            ]
+        },
+        {
+            "miner": "HHB42602",
+            "levels": [
+                {
+                    "frequency": 445,
+                    "voltage": 1850
+                },
+                {
+                    "frequency": 505,
+                    "voltage": 2080
+                }
+            ]
+        }
+    ]
+}
