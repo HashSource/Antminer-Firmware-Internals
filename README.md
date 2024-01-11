@@ -4,9 +4,8 @@
 
 ## Useful Directories
 
-- `antminer_sd_fw/update_no_header/etc`
-- `antminer_sd_fw/update_no_header/etc/init.d`
-- `antminer_sd_fw/update_no_header/usr/bin/FileParser`
+- `antminer_sd_fw/update_no_header`
+- `Antminer_S19_Pro_zynq7007_BHB42XXX/minerfs_no_header`
 
 ## GPIO
 
